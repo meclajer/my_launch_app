@@ -1,0 +1,11 @@
+{
+  "name": "my_launch_app",
+  "version": "0.0.1",
+  "description": "proyecto 1, practicas de la semana 3 de node js launch x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Eduardo Castillo Landeros",
+  "license": "MIT"
+}
